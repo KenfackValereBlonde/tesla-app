@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>taxi.app</finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
